@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I am **Anna-Saray Rohmann**. I am currently studying at **42 Heilbronn** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Angular, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’s, PSD to WordPress, PSD to HTML, User Experience, PHP, and WordPress.** Strong engineering professional with a Bachelor of Computer Application focused in UI UX Developer / Front End Developer / Web Designer from Sikkim Manipal University – Distance Education.
+I am **Anna-Saray Rohmann**. I am currently studying at **42 Heilbronn**
 
 ---
 
