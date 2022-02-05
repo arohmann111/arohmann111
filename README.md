@@ -14,8 +14,7 @@ I am **Anna-Saray Rohmann**. I am currently studying at **42 Heilbronn**
 - 🤔 I hope you enjoy looking at my repos!
 - 💬 Ask me about **my Projects**
 - 📫 How to reach me:
- **[Instagram](https://instagram.com/)
- [![Linkedin: Ghazi](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/anna-saray-rohmann-608152225/)
+ [![Linkedin: Ghazi](https://img.shields.io/badge/-arohmann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/anna-saray-rohmann-608152225/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arohmann111&layout=compact&theme=dark&hide_border=true)
 
