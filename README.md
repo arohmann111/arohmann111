@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Banner Image](.png)
+![Banner Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simonaa.media%2Ftutorials%2Ftag%2Fgenerative%2Bart&psig=AOvVaw3TIZTELnB0uHkc5ZFr1YhW&ust=1644178330821000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOi4vd-v6fUCFQAAAAAdAAAAABAn.png)
 
 ## Hi there 👋
 
