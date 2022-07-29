@@ -1,5 +1,4 @@
-
-#![Banner Image](https://github.com/arohmann111/arohmann111/blob/main/generative-art-name1.jpg)
+![Banner Image](https://github.com/arohmann111/arohmann111/blob/main/generative-art-name1.jpg)
 
 I am **Anna-Saray Rohmann**. I am currently studying at **42 Heilbronn**
 
