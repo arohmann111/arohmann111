@@ -1,11 +1,12 @@
 ![Banner Image](https://github.com/arohmann111/arohmann111/blob/main/generative-art-name1.jpg)
 
-I am **Anna-Saray Rohmann**. I am currently studying at **42 Heilbronn**
+I am **Anna-Saray Rohmann**. I am currently working at **amplify Design**
 
 ---
 
-- I’m currently a student at **42 Heilbronn**
+- I am a student at **42 Heilbronn**
 - I’m learning **C, C++, Python, Html, CSS**
+- **Angular, Unity, Javascript, Typescript**
 - I hope you enjoy looking at my repos!
 - Ask me about **possible colaborations or anything**
 - How to reach me:
